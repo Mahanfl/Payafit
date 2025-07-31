@@ -1,0 +1,202 @@
+[
+    {
+        "id": "15",
+        "new": "Yes",
+        "title": "نایک مدل AirMax",
+        "subtitle": "رنگ طوسی-مشکی ای سابز 38 تا 44",
+        "description": "رنگ طوسی با زیره مشکی با کیفیت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/maxNew.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/maxNew.jpg",
+            "../public/assest/buyShop/menShoes/sport/AirMax1.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirMax2.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirMax3.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirMax4.jpeg"
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8445",
+        "price": "3/600/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+    {
+        "id": "16",
+        "offer": "Yes",
+        "title": "نایک مدل AirForceOne",
+        "subtitle": "رنگ سفید سایز 42 تا 44",
+        "description": "رنگ سفید ساده با کیفیت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/airFOffer.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/airFOffer.jpg",
+            "../public/assest/buyShop/menShoes/sport/AirForce1.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirForce2.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirForce3.jpeg",
+            "../public/assest/buyShop/menShoes/sport/AirForce4.jpeg"
+            
+        ],
+        "size": "سایز های 42 تا 44 موجود است",
+        "buyCode": "کد 8445",
+        "oldPrice": "3/500/000 تومان",
+        "price": "2/975/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+    {
+        "id": "20",
+        "offer": "Yes",
+        "title": "کفش اسپرت مدل Monolite",
+        "subtitle": "رنگ طوسی مشکی سایز 39 تا 43",
+        "description": "مقاوم سبک و راحت مناسب  با کیفیت دوخت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/monoliteOffer.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/monoliteOffer.jpg",
+            "../public/assest/buyShop/menShoes/sport/monolite1.jpg",
+            "../public/assest/buyShop/menShoes/sport/monolite2.jpg",
+            "../public/assest/buyShop/menShoes/sport/monolite3.jpg"
+            
+            
+        ],
+        "size": "سایز های 39 تا 43 موجود است",
+        "buyCode": "کد 8459",
+        "oldPrice": "3/000/000",
+        "price": "2/550/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+
+
+    {
+        "id": "12",
+        "title": "نیوبالانس مدل 630",
+        "subtitle": "رنگ مشکی سایزهای 38 تا 44",
+        "description": "کپی نیوبالانس 630 سفید با کیفیت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/new630.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/new630.jpg",
+            "../public/assest/buyShop/menShoes/sport/new6301.jpg",
+            "../public/assest/buyShop/menShoes/sport/new6302.jpg",
+            "../public/assest/buyShop/menShoes/sport/new6303.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8401",
+        "price": "2/000/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+    {
+        "id": "13",
+        "title": "نیوبالانس مدل 830",
+        "subtitle": "رنگ مشکی سایزهای 38 تا 44",
+        "description": "نیوبالانس 830 رنگ مشکی سبک و راحت",
+        "mainImage": "../public/assest/shopPage/menShop/sport/new830.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/new830.jpg",
+            "../public/assest/buyShop/menShoes/sport/new8301.jpg",
+            "../public/assest/buyShop/menShoes/sport/new8302.jpg"
+        
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8403",
+        "price": "2/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+    {
+        "id": "14",
+        "title": "نایک مدل AirMax",
+        "subtitle": "رنگ مشکی سایزهای 38 تا 43",
+        "description": "رنگ مشکی زیره و کفی سفید با کیفیت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/Air.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/Air.jpg",
+            "../public/assest/buyShop/menShoes/sport/Air1.jpg",
+            "../public/assest/buyShop/menShoes/sport/Air2.jpg",
+            "../public/assest/buyShop/menShoes/sport/Air3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8401",
+        "price": "3/600/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+
+    {
+        "id": "17",
+        "title": "نایک مدل AirForceOne",
+        "subtitle": "رنگ طوسی-مشکی ای سابز 39 تا 44",
+        "description": "رنگ طوسی کفی مشکی با کیفیت بالا",
+        "mainImage": "../public/assest/shopPage/menShop/sport/AirForce1T.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/AirForce1T.jpg",
+            "../public/assest/buyShop/menShoes/sport/AirForce1T.jpg",
+            "../public/assest/buyShop/menShoes/sport/AirForce1T1.jpg",
+            "../public/assest/buyShop/menShoes/sport/AirForce1T2.jpg"
+            
+        ],
+        "size": "سایز های 39 تا 44 موجود است",
+        "buyCode": "کد 8449",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+    {
+        "id": "18",
+        "title": "نایک مدل Classic",
+        "subtitle": "رنگ سفید مشکی سایز 38 تا 43",
+        "description": "کلاسیک سفید مشکی با لوگو خاص",
+        "mainImage": "../public/assest/shopPage/menShop/sport/classic.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/classic.jpg",
+            "../public/assest/buyShop/menShoes/sport/classic1.jpg",
+            "../public/assest/buyShop/menShoes/sport/classic2.jpg"
+            
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8453",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    },
+
+     {
+        "id": "19",
+        "title": "نایک مدل Jordan",
+        "subtitle": "رنگ سفید مشکی سایز 38 تا 43",
+        "description": "سفید مشکی طرح دار در پشت",
+        "mainImage": "../public/assest/shopPage/menShop/sport/Jordan.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/sport/Jordan.jpg",
+            "../public/assest/buyShop/menShoes/sport/Jordan1.jpg",
+            "../public/assest/buyShop/menShoes/sport/Jordan2.jpg",
+            "../public/assest/buyShop/menShoes/sport/Jordan3.jpg"
+            
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8459",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "sport"
+    }
+]

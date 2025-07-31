@@ -1,0 +1,433 @@
+[
+    {
+        "id": "52",
+        "new": "Yes",
+        "title": "کفش مجلسی مدل Sling Back",
+        "subtitle": "رنگ بژ در سابز های 36 تا 42",
+        "color": "رنگ : بژ",
+        "description": "پاشنه کوتاه نوک تیز همراه با بند روی رویه و یک بند پشت",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/slingNew.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/slingNew.jpg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1030",
+        "price": "3/800/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "41",
+        "new": "Yes",
+        "title": "کفش مجلسی مدل شب تاب",
+        "subtitle": "رنگ نقره ای سایز 36 تا 40",
+        "color": "رنگ : نقره ای",
+        "description": "پاشنه بلند نگین دار با بند دور ساق",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/shabNew.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/shabNew.jpg",
+            "../public/assest/buyShop/womenShoes/formal/shabtab1.jpg",
+            "../public/assest/buyShop/womenShoes/formal/shabtab2.jpg",
+            "../public/assest/buyShop/womenShoes/formal/shabtab3.jpg"
+            
+        ],
+        "size": "سایز های 36 تا 40 موجود است",
+        "buyCode": "کد 1007",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "45",
+        "offer": "Yes",
+        "title": "صندل مجلسی مدل نورآلینا",
+        "subtitle": "رنگ سفید در سابز های 36 تا 42",
+        "color":"رنگ : سفید",
+        "description": "پاشنه گربه ای همراه با سگک طلایی با بند دور مچ",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/heeloffer.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/heeloffer.jpg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelW1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelW2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelW3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1017",
+        "oldPrice": "3/200/000",
+        "price": "2/720/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "300",
+        "gold": "Yes",
+        "title": "کفش مجلسی مدل Zarin",
+        "subtitle": "رنگ طلایی در سابز های 36 تا 43",
+        "color":"رنگ : طلایی",
+        "description": "دوخت با کیفیت و بند دورمچ سگک دار همراه با کیف ست",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/zarinGold.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/zarin.jpg",
+            "../public/assest/buyShop/womenShoes/formal/zarin1.jpg",
+            "../public/assest/buyShop/womenShoes/formal/zarin3.jpg",
+            "../public/assest/buyShop/womenShoes/formal/Bzarin.jpg",
+            "../public/assest/buyShop/womenShoes/formal/Bzarin1.jpg"
+            
+        ],
+        "size": "سایز های 36 تا 43 موجود است",
+        "buyCode": "کد 1038",
+        "price": "4/000/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "301",
+        "gold": "Yes",
+        "title": "کفش مجلسی مدل Avid",
+        "subtitle": "رنگ سفید در سابز های 36 تا 43",
+        "color": "رنگ : سفید",
+        "description": "رویه ی توری با بند دور مچ سگک دار همراه با کیف ست",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/avidGold.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/avid.jpg",
+            "../public/assest/buyShop/womenShoes/formal/avid1.jpg",
+            "../public/assest/buyShop/womenShoes/formal/avid2.jpg",
+            "../public/assest/buyShop/womenShoes/formal/Bavid.jpg",
+            "../public/assest/buyShop/womenShoes/formal/Bavid1.jpg"
+            
+        ],
+        "size": "سایز های 36 تا 43 موجود است",
+        "buyCode": "کد 1038",
+        "price": "4/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+
+   {
+        "id": "40",
+        "title": "کفش مجلسی مدل Stiletto",
+        "subtitle": "رنگ مشکی سایز 36 تا 42",
+        "color": "رنگ : مشکی",
+        "description": "پاشنه بلند مشکی ساده سگک دار همراه با بند مچ ",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/stilletto.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/stilletto.webp",
+            "../public/assest/buyShop/womenShoes/formal/stilletto1.webp",
+            "../public/assest/buyShop/womenShoes/formal/stilletto2.webp",
+            "../public/assest/buyShop/womenShoes/formal/stilletto3.webp"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1004",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "42",
+        "title": "کفش مجلسی مدل Kitten Heel",
+        "subtitle": "رنگ طلایی سایز 36 تا 41",
+        "color": "رنگ : طلایی",
+        "description": "پاشنه کوتاه با بند طلایی پشت باز",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeel.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/kittenHeel.webp",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeel1.webp",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeel2.webp"
+            
+            
+        ],
+        "size": "سایز های 36 تا 41 موجود است",
+        "buyCode": "کد 1008",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "43",
+        "title": "کفش مجلسی مدل Sling Back",
+        "subtitle": "رنگ مشکی سایز 35 تا 40",
+        "color": "رنگ : مشکی",
+        "description": "پاشنه کوتاه مشکی همراه با طرح پروانه",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBackB.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/slingBackB.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBackB1.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBackB2.webp"
+            
+            
+        ],
+        "size": "سایز های 36 تا 41 موجود است",
+        "buyCode": "کد 1012",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "44",
+        "title": "کفش مجلسی مدل Sling Back",
+        "subtitle": "رنگ مشکی سایز 36 تا 41",
+        "color": "رنگ : مشکی",
+        "description": "پاشنه کوتاه مشکی براق با بند سگک دار ",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeelB.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/kittenHeelB.webp",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeelB1.webp",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeelB2.webp",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeelB3.webp"
+            
+        ],
+        "size": "سایز های 36 تا 41 موجود است",
+        "buyCode": "کد 1014",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "46",
+        "title": "صندل مجلسی مدل Cristal",
+        "subtitle": "رنگ نقره ای در سابز های 36 تا 42",
+        "color": "رنگ : نقره ای",
+        "description": "صندل پاشنه بلند با بند شفاف و تزئینات نگینی",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/cristal.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/cristal.jpg",
+            "../public/assest/buyShop/womenShoes/formal/cristal1.jpg",
+            "../public/assest/buyShop/womenShoes/formal/cristal2.jpg",
+            "../public/assest/buyShop/womenShoes/formal/cristal3.jpg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1017",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "47",
+        "title": "صندل مجلسی مدل Kitten Heel",
+        "subtitle": "رنگ مشکی در سابز های 36 تا 40",
+        "color": "رنگ : مشکی",
+        "description": "صندل پاشنه بلوکی سگک دار با بند مچ پا",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/blackHeelB.jpeg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/blackHeelB.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelB1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelB2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelB3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1019",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "48",
+        "title": "کفش مجلسی مدل Gippor",
+        "subtitle": "رنگ طلایی در سابز های 36 تا 40",
+        "color": "رنگ : طلایی",
+        "description": "پاشنه کوتاه با طرح های نگین دوزی و توری در رویه",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/gippor.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/gippor.webp",
+            "../public/assest/buyShop/womenShoes/formal/gippor1.webp",
+            "../public/assest/buyShop/womenShoes/formal/gippor2.webp",
+            "../public/assest/buyShop/womenShoes/formal/gippor3.webp"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1023",
+        "price": "3/000/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "49",
+        "title": "کفش مجلسی مدل Kitten Heel",
+        "subtitle": "رنگ کرم در سایز های 36 تا 41",
+        "color": "رنگ : کرم",
+        "description": "صندل پاشنه بلوکی سگک دار با بند مچ پا",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/blackHeelK.jpeg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/blackHeelK.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelK1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelK2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/blackHeelK3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 41 موجود است",
+        "buyCode": "کد 1025",
+        "price": "3/200/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "50",
+        "title": "کفش مجلسی مدل Kitten Heel",
+        "subtitle": "رنگ مشکی در سابز های 36 تا 40",
+        "color": "رنگ : مشکی",
+        "description": "پاشنه کوتاه مشکی  ساده مجلسی و اداری",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeel.jpeg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/kittenHeel.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeel1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeel2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/kittenHeel3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 40 موجود است",
+        "buyCode": "کد 1028",
+        "price": "3/000/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "51",
+        "title": "کفش مجلسی مدل MaryJane",
+        "subtitle": "رنگ مشکی در سابز های 36 تا 40",
+        "color": "رنگ : مشکی",
+        "description": "پاشنه بلوکی بند دار ساده مجلسی و اداری",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/maryJane.jpeg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/maryJane.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/maryJane1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/maryJane2.jpeg"
+           
+            
+        ],
+        "size": "سایز های 36 تا 40 موجود است",
+        "buyCode": "کد 1029",
+        "price": "3/000/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "53",
+        "title": "کفش مجلسی مدل Sling Back",
+        "subtitle": "رنگ سفید در سابز های 36 تا 40",
+        "color": "رنگ : سفید",
+        "description": "پاشنه بلند همراه با تزئینات مروارید روی رویه توری",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBack.jpg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/slingBack.jpg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack1.jpg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack2.jpg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack3.jpg",
+            "../public/assest/buyShop/womenShoes/formal/slingBack4.jpg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1032",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+    {
+        "id": "54",
+        "title": "کفش مجلسی مدل Sling Back",
+        "subtitle": "رنگ کرم در سابز های 36 تا 42",
+        "color": "رنگ : کرم",
+        "description": "پاشنه بلند نوک تیز همراه با بند پشت و بند مچ",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBack.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/slingBack.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBack1.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBack2.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBack3.webp",
+            "../public/assest/buyShop/womenShoes/formal/slingBack4.webp"
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1035",
+        "price": "3/800/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+     {
+        "id": "55",
+        "title": "کفش مجلسی مدل Flat",
+        "subtitle": "رنگ قهوه ای در سابز های 36 تا 40",
+        "color": "رنگ : قهوه ای",
+        "description": "پاشنه تخت همراه با بند روی رویه",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/flat.webp",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/flat.webp",
+            "../public/assest/buyShop/womenShoes/formal/flat1.webp",
+            "../public/assest/buyShop/womenShoes/formal/flat2.webp",
+            "../public/assest/buyShop/womenShoes/formal/flat3.webp"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1037",
+        "price": "2/800/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    },
+
+     {
+        "id": "56",
+        "title": "صندل مجلسی مدل Laser Cut",
+        "subtitle": "رنگ مشکی در سابز های 36 تا 40",
+        "color": "رنگ : مشکی",
+        "description": "صندل روزمره با طراحی لیزر کات شده و پاشنه کوتاه بلوکی است",
+        "mainImage": "../public/assest/shopPage/womenShop/formal/laserCut.jpeg",
+        "images": [
+            "../public/assest/shopPage/womenShop/formal/laserCut.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/laserCut1.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/laserCut2.jpeg",
+            "../public/assest/buyShop/womenShoes/formal/laserCut3.jpeg"
+            
+        ],
+        "size": "سایز های 36 تا 42 موجود است",
+        "buyCode": "کد 1038",
+        "price": "2/800/000 تومان",
+        "link": "",
+        "category": "women",
+        "type": "formal"
+    }
+    
+
+]

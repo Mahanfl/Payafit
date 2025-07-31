@@ -1,0 +1,149 @@
+.slideContainer{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    direction: rtl;
+
+}
+
+.slide{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition: opacity 0.8s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+}
+
+.slide.active{
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+}
+
+
+.overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 1;
+}
+
+.content{
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+    max-width: 50vw;
+    gap: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.title{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.description{
+    font-size: 1.9rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+}
+
+.offer{
+    color: green;
+    text-shadow: 3px 1px black;
+    font-size: 2.8rem;
+    padding: 0.2rem;
+    font-weight: bold;
+}
+
+.new{
+    color: blue;
+    text-shadow: 3px 1px white;
+    font-size: 2.8rem;
+    padding: 0.2rem;
+    font-weight: bold;
+}
+
+.link{
+    display: inline-block;
+    background-color: #007;
+    color: white;
+    border-radius: 0.4rem;
+    padding: 0.7rem;
+    font-size: 1.1rem;
+    transition: background-color 0.4s ease;
+}
+
+link:hover{
+    background-color: #0056b3;
+}
+
+.navButton{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    font-size: 1.6rem;
+    z-index: 3;
+    transition: background-color 0.3s ease;
+    border-radius: 50%;
+    cursor: pointer;
+   
+}
+
+.navButton:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.prevButton{
+    right: 1.5rem;
+
+}
+
+.nextButton{
+    left: 1.5rem;
+}
+
+.dotsContainer{
+    position: absolute;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 3;
+    display: flex;
+    gap: 0.8rem;
+    direction: rtl;
+}
+
+.dot{
+    width: 1rem;
+    height: 1rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.dot.active{
+    background-color: #fff;
+    transform: scale(1.2);
+}

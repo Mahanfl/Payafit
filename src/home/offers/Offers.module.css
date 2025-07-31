@@ -1,0 +1,190 @@
+.offersSection{
+    padding: 3rem 2rem;
+    direction: rtl;
+    margin-top: 1%;
+    background-image: linear-gradient(to top, #007bff 0.2%,transparent 0.2%);
+}
+
+.sectionTitle{
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+    font-weight: bold;
+}
+
+.offersText{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-right: 2%;
+    opacity: 0.4;
+}
+
+.offersGride{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.3rem;
+      max-width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+    
+}
+
+.offerCard{
+    border-radius: 0.7rem;
+    overflow: hidden;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.08);
+    transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    max-width: 1200px;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 256, 0.6);
+}
+
+.offerCard:hover{
+    transform: translateY(-0.5rem);
+    box-shadow: 0 0.8rem 1.5rem rgba(0, 0, 0, 0.15);
+    border-color: blue;
+}
+
+.imageContainer{
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.offerImage{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.4s ease-in-out;
+}
+
+.offerImage.hidden{
+    opacity: 0;
+    visibility: hidden;
+}
+
+.offerImage.visible{
+    opacity: 1;
+    visibility: visible;
+}
+
+.offerContent{
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.offerTitle{
+    font-size: 1.5rem;
+    margin-bottom: 0.7rem;
+    font-weight: bold;
+    line-height: 1.3;
+}
+
+.offerDescription{
+    font-size: 1rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.5;
+    flex-grow: 1;
+}
+
+.priceContainer{
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    margin-top: auto;
+    margin-bottom: 1.2rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.oldPrice{
+    font-size: 0.90rem;
+    opacity: 0.6;
+    text-decoration: line-through;
+}
+
+.currentPrice{
+    font-size: 1.3rem;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.datailsLink{
+    display: inline-block;
+    background-color: rgba(0, 0, 256, 0.5);
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border-radius: 0.4rem;
+    font-size: 0.98rem;
+    transition: background-color 0.4s ease, transform 0.2s ease;
+    align-self: flex-start;
+    border: 1px solid white;
+}
+
+.datailsLink:hover{
+    background-color: blue;
+    color: white;
+    transform: translateY(-10px);
+}
+
+@media (max-width: 1024px) {
+    .offersGride{
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1rem;
+    }
+    .sectionTitle{
+        font-size: 1.7rem;
+        margin-bottom: 2rem;
+    }
+    .oldPrice{
+        font-size: 0.9rem;
+
+    }
+    .currentPrice{
+        font-size: 1.1rem;
+    }
+    .datailsLink{
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .offersSection{
+        padding: 2.5rem 1.5rem;
+    }
+    .sectionTitle{
+        font-size: 1.5rem;
+        margin-bottom: 1.8rem;
+    }
+    .offersGride{
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 0.9rem;
+    }
+    .offerTitle{
+        font-size: 1.2rem;
+    }
+    .offerDescription{
+        font-size: 0.7rem;
+    }
+    .oldPrice{
+        font-size: 0.75rem;
+    }
+    .currentPrice{
+        font-size: 1rem;
+    }
+    .datailsLink{
+        font-size: 0.75rem;
+        padding: 0.4rem 0.8rem;
+    }
+}

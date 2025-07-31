@@ -1,0 +1,264 @@
+.cartContainer{
+    padding: 2rem;
+    max-width: 80rem;
+    margin: 2rem auto;
+    border: 1px solid #eee;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.62rem rgba(0,0,0, 0.05);
+    background-color: #fff;
+    direction: rtl;
+    text-align: right;
+}
+
+.title{
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.8rem;
+}
+
+.emptyMessage{
+    text-align: center;
+    color: #777;
+    font-size: 1.2rem;
+    padding: 3rem 0;
+}
+
+.productList{
+    padding: 0;
+    margin: 0;
+}
+
+.productItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.productItem:last-child{
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.productImage{
+    width: 7rem;
+    height: 7rem;
+    object-fit: cover;
+    border-radius: 0.4rem;
+    margin-left: 1rem;
+    border: 1px solid #ddd;
+    flex-shrink: 0;
+}
+
+.productInfo{
+    flex-grow: 1;
+    text-align: right;
+    min-width: 15rem;
+}
+
+.productTitle{
+    margin: 0 0 0.3rem 0;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.productPrice{
+    margin: 0;
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.quantityContainer{
+    margin: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 0.95rem;
+}
+
+.quantityButton{
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 0 0.5rem;
+    transition: background-color 0.3s ease;
+    flex-shrink: 0;
+}
+
+.quantityButton:hover{
+    background-color: #e0e0e0;
+
+}
+
+.itemTotalPrice{
+    margin: 0;
+    font-weight: bold;
+    color: #007bff;
+    font-size: 1rem;
+    flex-basis: 100%;
+    text-align: left;
+}
+
+.removeButton{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.5rem 0.8rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.totalSection{
+    text-align: right;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1rem;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.checkoutButton{
+    padding: 0.8rem 1.5rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    font-size: 1.1rem;
+    width: 100%;
+    margin-top: 1%;
+    transition: background-color 0.3s ease;
+}
+
+.checkoutButton:hover{
+    background-color: #218838;
+}
+
+@media (max-width: 768px){
+    .cartContainer{
+        margin: 1.5rem auto;
+        padding: 1.5rem;
+        max-width: 90%;
+    }
+
+    .title{
+        font-size: 1.8rem;
+    }
+
+    .productImage{
+        width: 6rem;
+        height: 6rem;
+        margin-left: 0.8rem;
+    }
+
+    .productInfo{
+        min-width: unset;
+    }
+
+    .productTitle{
+        font-size: 1rem;
+    }
+
+    .productPrice{
+        font-size: 0.9rem;
+    }
+
+    .removeButton, .quantityButton{
+        padding: 0.4rem 0.7rem;
+        font-size: 0.85rem;
+    }
+
+    .totalSection{
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 480px){
+    .cartContainer{
+        margin: 1rem auto;
+        padding: 1rem;
+        border-radius: 0.3rem;
+        box-shadow: none;
+        border: none;
+    }
+
+    .title{
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+        padding-bottom: 0.5rem;
+        text-align: center;
+    }
+
+    .emptyMessage{
+        font-size: 1rem;
+        padding: 2rem 0;
+    }
+
+    .productImage{
+        width: 5rem;
+        height: 5rem;
+        margin-left: 0;
+        margin-bottom: 0.5rem;
+    }
+
+    .productInfo{
+        width: 100%;
+        text-align: right;
+    }
+
+    .productTitle{
+        font-size: 1rem;
+    }
+
+    .productPrice{
+        font-size: 0.85rem;
+    }
+
+    .quantityContainer{
+        justify-content: flex-start;
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+
+    .quantityButton{
+        padding: 0.3rem 0.6rem;
+        font-size: 0.9rem;
+    }
+
+    .itemTotalPrice{
+        text-align: right;
+    }
+
+    .removeButton{
+        width: 100%;
+        height: 0.6rem;
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+    }
+
+    .totalSection{
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .checkoutButton{
+        padding: 1rem;
+        font-size: 1rem
+    }
+}

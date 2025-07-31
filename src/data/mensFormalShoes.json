@@ -1,0 +1,248 @@
+[
+     {
+        "id": "8",
+        "new": "NEW",
+        "title": "کفش مجلسی مدل آکسفورد",
+        "subtitle": "رنگ مشکی سایزهای 37 تا 44",
+        "description": "مشکی با خط سبز در زیر دوخت با کیفیت همراه با چرم طبیعی",
+        "mainImage": "../public/assest/shopPage/menShop/formal/oxfordNew.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/oxfordNew.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordN1.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordN2.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordN3.jpg"
+            
+        ],
+        "size": "سایز های 37 تا 44 موجود است",
+        "buyCode": "کد 8746",
+        "price": "4/000/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+     {
+        "id": "200",
+        "gold": "Buying Gold",
+        "title": "کفش مجلسی مدل آدرین",
+        "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "description": "چرم طبیعی و دوخت با کیفیت همراه با کیف ست رسمی چرم ",
+        "mainImage": "../public/assest/shopPage/menShop/formal/adrinGold.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/adrin.jpg",
+            "../public/assest/buyShop/menShoes/formal/adrin2.jpg",  
+            "../public/assest/buyShop/menShoes/formal/adrin4.jpg",       
+            "../public/assest/buyShop/menShoes/formal/Badrin1.jpg",
+            "../public/assest/buyShop/menShoes/formal/Badrin2.jpg"
+            
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8742",
+        "price": "4/200/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+    {
+        "id": "201",
+        "gold": "Buying Gold",
+        "title": "کفش مجلسی مدل روهام",
+        "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "description": "چرم طبیعی درجه یک و دوخت با کیفیت همراه با کیف زسمی چرم ",
+        "mainImage": "../public/assest/shopPage/menShop/formal/rohomGold.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/rohom.jpg",
+            "../public/assest/buyShop/menShoes/formal/rohom1.jpg",
+            "../public/assest/buyShop/menShoes/formal/rohom3.jpg",      
+            "../public/assest/buyShop/menShoes/formal/Brohom1.jpg",
+            "../public/assest/buyShop/menShoes/formal/Brohom2.jpg"
+            
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8742",
+        "price": "4/000/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+     {
+        "id": "1",
+        "title": "کفش مجلسی مدل سهند",
+        "subtitle": "رنگ مشکی سایز 38 تا 43",
+        "description": "سهند رنگ مشکی دوخت با تزئینات و چرم طبیعی",
+        "mainImage": "../public/assest/shopPage/menShop/formal/sahand.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/sahand.jpg",
+            "../public/assest/buyShop/menShoes/formal/sahand1.jpg",
+            "../public/assest/buyShop/menShoes/formal/sahand2.jpg",
+            "../public/assest/buyShop/menShoes/formal/sahand3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8721",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "2",
+        "title": "کفش مجلسی مدل کالج",
+        "subtitle": "رنگ مشکی سایز 38 تا 43",
+        "description": "کالج ساده مشکی دوخت با کیفیت و چرم طبیعی",
+        "mainImage": "../public/assest/shopPage/menShop/formal/collage.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/collage.jpg",
+            "../public/assest/buyShop/menShoes/formal/collage1.jpg",
+            "../public/assest/buyShop/menShoes/formal/collage2.jpg",
+            "../public/assest/buyShop/menShoes/formal/collage3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8724",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "3",
+        "title": "کفش مجلسی مدل آکسفورد",
+        "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "description": "آکسفورد ساده مشکی با چرم طبیعی دوخت با کیفیت",
+        "mainImage": "../public/assest/shopPage/menShop/formal/oxford.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/oxford.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxford1.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxford2.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxford3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8730",
+        "price": "3/800/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "4",
+        "title": "کفش مجلسی مدل آکسفورد",
+        "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "description": "آکسفورد مشکی با دوخت و طرح ویژه",
+        "mainImage": "../public/assest/shopPage/menShop/formal/oxfordTZ.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/oxfordTZ.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordTZ1.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordTZ2.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordTZ3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 44 موجود است",
+        "buyCode": "کد 8733",
+        "price": "4/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "5",
+        "title": "کفش مجلسی مدل نیما",
+        "subtitle": "رنگ مشکی سایز 39 تا 43",
+        "description": "کالج مشکی با دوخت دولایه و چرم طبیعی مدل نیما",
+        "mainImage": "../public/assest/shopPage/menShop/formal/nima.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/nima.jpg",
+            "../public/assest/buyShop/menShoes/formal/nima1.jpg",
+            "../public/assest/buyShop/menShoes/formal/nima2.jpg",
+            "../public/assest/buyShop/menShoes/formal/nima3.jpg"
+            
+        ],
+        "size": "سایز های 39 تا 43 موجود است",
+        "buyCode": "کد 8736",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "6",
+        "title": "کفش مجلسی مدل آکسفورد",
+        "subtitle": "رنگ مشکی قهوه ای سایز های 38 تا 43",
+        "description": "آکسفورد مشکی زیره و پاشنه قهوه ای همراه با دوخت با کیفیت",
+        "mainImage": "../public/assest/shopPage/menShop/formal/oxfordC.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/oxfordC.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordC1.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordC2.jpg",
+            "../public/assest/buyShop/menShoes/formal/oxfordC3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8738",
+        "price": "3/000/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+    {
+        "id": "7",
+        "title": "کفش مجلسی مدل کالج",
+        "subtitle": "رنگ مشکی سایزهای 38 تا 43",
+        "description": "کالج سگک دار با دوخت با کیفیت و چرم طبیعی",
+        "mainImage": "../public/assest/shopPage/menShop/formal/collageS.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/collageS.jpg",
+            "../public/assest/buyShop/menShoes/formal/collageS1.jpg",
+            "../public/assest/buyShop/menShoes/formal/collageS2.jpg",
+            "../public/assest/buyShop/menShoes/formal/collageS3.jpg"
+            
+        ],
+        "size": "سایز های 38 تا 43 موجود است",
+        "buyCode": "کد 8742",
+        "price": "3/500/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    },
+
+
+    {
+        "id": "9",
+        "title": "کفش مجلسی مدل سامی بلورگ",
+        "subtitle": "رنگ مشکی سایز 39 تا 44",
+        "description": "سامی بلورگ با دوخت عالی و چرم طبیعی ",
+        "mainImage": "../public/assest/shopPage/menShop/formal/samiBlurg.jpg",
+        "images": [
+            "../public/assest/shopPage/menShop/formal/samiBlurg.jpg",
+            "../public/assest/buyShop/menShoes/formal/samiBlurg1.jpg",
+            "../public/assest/buyShop/menShoes/formal/samiBlurg2.jpg",
+            "../public/assest/buyShop/menShoes/formal/samiBlurg3.jpg"
+            
+        ],
+        "size": "سایز های 39 تا 44 موجود است",
+        "buyCode": "کد 8738",
+        "price": "3/600/000 تومان",
+        "link": "",
+        "category": "men",
+        "type": "formal"
+    }
+    
+
+]

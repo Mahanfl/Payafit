@@ -1,0 +1,178 @@
+.wishListContainer{
+    padding: 2rem;
+    max-width: 80rem;
+    margin: 2rem auto;
+    border: 1px solid #eee;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.625rem rgba(0,0,0.0.5);
+    background-color: #fff;
+    direction: rtl;
+    text-align: right;
+}
+
+.title{
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.8rem;
+}
+
+.emptyMessage{
+    text-align: center;
+    color: #777;
+    font-size: 1.1rem;
+    padding: 3rem 0;
+}
+
+.productList{
+    padding: 0;
+    margin: 0;
+}
+
+.productItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.productItem:last-child{
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.productImage{
+    width: 7rem;
+    height: 7rem;
+    object-fit: cover;
+    border-radius: 0.4rem;
+    margin-left: 1rem;
+    border: 1px solid #ddd;
+    flex-shrink: 0;
+}
+
+.productInfo{
+    flex-grow: 1;
+    text-align: right;
+    min-width: 15rem;
+}
+
+.productTitle{
+    margin: 0 0 0.3rem 0;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.productPrice{
+    margin: 0;
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.removeButton{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.5rem 0.8rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.removeButton:hover{
+    background-color: #c82333;
+}
+
+@media (max-width: 768px) {
+    .wishListContainer{
+        margin: 1.5rem auto;
+        padding: 1.5rem;
+        max-width: 90%;
+    }
+
+    .title{
+        font-size: 1.8rem;
+    }
+    .productItem{
+        flex-direction: row-reverse;
+        gap: 0.8rem;
+    }
+    .productImage{
+        width: 6rem;
+        height: 6rem;
+        margin-left: 0.8rem;
+    }
+    .productInfo{
+        min-width: unset;
+    }
+    .productTitle{
+        font-size: 1rem;
+    }
+    .productPrice{
+        font-size: 0.9rem;
+    }
+    .removeButton{
+        padding: 0.4rem 0.7rem;
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .wishListContainer{
+        margin: 1rem auto;
+        padding: 1rem;
+        border-radius: 0.3rem;
+        box-shadow: none;
+        border: none;
+    }
+
+    .title{
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+        padding-bottom: 0.5rem;
+        text-align: center;
+    }
+
+    .emptyMessage{
+        font-size: 1rem;
+        padding: 2rem 0;
+    }
+
+    .productItem{
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 0.5rem;
+        padding-bottom: 0.8rem;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .productImage{
+        width: 5rem;
+        height: 5rem;
+        margin-left: 0;
+        margin-bottom: 0.5rem;
+    }
+
+    .productTitle{
+        font-size: 1rem;
+    }
+    .productPrice{
+        font-size: 0.85rem;
+    }
+    .removeButton{
+        width: 100%;
+        padding: 0.6rem;
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+    }
+}

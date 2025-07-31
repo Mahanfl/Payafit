@@ -1,0 +1,290 @@
+.paymentContainer{
+    padding: 2.5rem;
+    max-width: 60rem;
+    margin: 2rem auto;
+    background-color: #fff;
+    border-radius: 0.8rem;
+    box-shadow: 0 0.5rem 1.5rem rgba(0,0,0,0.1);
+    direction: rtl;
+    text-align: right;
+}
+
+.title{
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 2rem;
+    text-align: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 1rem;
+}
+
+.productSummary{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    border: 1px solid #eee;
+    flex-direction: row-reverse;
+}
+
+.productImage{
+    width: 6rem;
+    height: 6rem;
+    object-fit: cover;
+    border-radius: 0.4rem;
+    border: 1px solid #ddd;
+    flex-shrink: 0;
+}
+
+.productDetails{
+    flex-grow: 1;
+    text-align: right;
+}
+
+.productDetails h3{
+    margin: 0 0 0.5rem 0;
+    color: #007bff;
+    font-size: 1.3rem;
+}
+
+.productDetails p{
+    margin: 0;
+    color: #555;
+    font-size: 1rem;
+}
+
+.paymentMethodSelection{
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    margin-top: 1.5rem;
+}
+
+.methodButton{
+    flex: 1;
+    padding: 1rem 1.5rem;
+    border: 1px solid #007bff;
+    border-radius: 0.6rem;
+    background-color: #f0f8ff;
+    color: #007bff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    max-width: 15rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,123,255,0.1);
+
+}
+
+.methodButton:hover{
+    background-color: #e6f3ff;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+}
+
+.methodButton.activeMethod{
+    background-color: #007bff;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0,123,255,0.4);
+}
+
+.sectionTitle{
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+}
+
+.paymentForm{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.formGroup{
+    display: flex;
+    flex-direction: column;
+}
+
+.formGroup label{
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.formGroup input[type="text"],
+.formGroup input[type="password"],
+.formGroup select{
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+    text-align: right;
+}
+.formGroup input[type="text"]:focus,
+.formGroup input[type="password"]:focus,
+.formGroup select:focus{
+    outline:  none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.inputError{
+    border-color: #dc3545 !important;
+}
+
+.errorMessage{
+    color: #dc3545;
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+    text-align: right;
+}
+
+.sumbitButton{
+    background-color: #28a745;
+    color: white;
+    padding: 1.2rem 1.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+    margin-top: 2rem;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+.sumbitButton:hover{
+    background-color: #218838;
+    transform: translateY(-2px);
+}
+
+.sumbitButton:active{
+    transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+    .paymentContainer{
+        max-width: 90%;
+        padding: 1.5rem;
+        margin: 1rem auto;
+    }
+
+    .title{
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .productSummary{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .productImage{
+        margin-bottom: 1rem;
+        margin-left: 0;
+    }
+
+    .productDetails{
+        text-align: center;
+    }
+
+    .paymentMethodSelection{
+        flex-direction: column;
+    }
+
+    .sectionTitle{
+        font-size: 1.1rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .formGroup input,
+    .formGroup select{
+        padding: 0.7rem;
+        font-size: 0.90rem;
+    }
+
+    .sumbitButton{
+        padding: 1rem 12rem;
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .paymentContainer{
+        padding: 1rem;
+        margin: 0.5 auto;
+        border-radius: 0;
+        border: none;
+    }
+
+    .title{
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .productSummary{
+        padding: 0.8rem;
+    }
+
+    .productImage{
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .productDetails h3{
+        font-size: 1.1rem;
+    }
+
+    .productDetails p{
+        font-size: 0.9rem;
+    }
+
+    .paymentMethodSelection{
+        gap: 0.8rem;
+    }
+    
+    .methodButton{
+        padding: 0.8rem 1rem;
+        font-size: 1rem;
+    }
+
+    .sectionTitle{
+         font-size: 1.1rem;
+         margin-top: 1rem;
+         margin-bottom: 0.8rem;
+    }
+
+    .formGroup label{
+        font-size: 0.8rem;
+    }
+
+    .formGroup input,
+    .formGroup select{
+        padding: 0.6rem;
+        font-size: 0.9;
+    }
+
+    .errorMessage{
+        font-size: 0.8rem;
+    }
+
+    .sumbitButton{
+        padding: 0.8rem;
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+
+}
