@@ -23,7 +23,7 @@ const SportMenMaps = () => {
 const slidesData = [
     {
         id: 16,
-        image: "../public/assest/slider/sug4.jpg",
+        image: "/assest/slider/sug4.jpg",
         title: "تخفیف Nike",
         description: (
             <>نایک AirForceOne رو با 15% <span className={styled.offer}>تخفیف</span> میتونی بگیری</>
@@ -33,7 +33,7 @@ const slidesData = [
     },
     {
         id: 2,
-        image: "../public/assest/slider/sug3.jpg",
+        image: "/assest/slider/sug3.jpg",
         title: "مجلسی های جدید رسید ...",
         description: (
             <>از کفش های مجلسی <span className={styled.new}>جدید</span> غافل نشو</>
