@@ -6,7 +6,7 @@
         "subtitle": "رنگ مشکی - سفید سایز 36 تا 40",
         "color": "رنگ : مشکی - سفید",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/zoomNew.jpg",
+        "mainImage": "/assest/shopPage/womenShop/sport/zoomNew.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/zoomNew.jpg",
             "../public/assest/buyShop/womenShoes/sport/zoom1.webp",
@@ -29,7 +29,7 @@
         "subtitle": "رنگ سفید - آبی روشن سایز 36 تا 40",
         "color": "رنگ : سفید - آبی روشن",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/airFNew.jpg",
+        "mainImage": "/assest/shopPage/womenShop/sport/airFNew.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/airFNew.jpg",
             "../public/assest/buyShop/womenShoes/sport/airJordan1Low1.webp",
@@ -53,7 +53,7 @@
         "color": "رنگ : مشکی-سفید",
         "subtitle": "رنگ مشکی-سفید سایز 36 تا 41",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/casualOffer.jpg",
+        "mainImage": "/assest/shopPage/womenShop/sport/casualOffer.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/casualOffer.jpg",
             "../public/assest/buyShop/womenShoes/sport/casual1.webp",
@@ -77,7 +77,7 @@
         "subtitle": "رنگ مشکی - آبی سایز 36 تا 40",
         "color": "رنگ : مشکی - آبی",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/proRun.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/proRun.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/proRun.webp",
             "../public/assest/buyShop/womenShoes/sport/proRun1.webp",
@@ -100,7 +100,7 @@
         "subtitle": "رنگ سفید سایز 36 تا 41",
         "color": "رنگ : سفید",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/blazerLow.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/blazerLow.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/blazerLow.webp",
             "../public/assest/buyShop/womenShoes/sport/blazerLow1.webp",
@@ -123,7 +123,7 @@
         "subtitle": "رنگ سفید سایز 36 تا 41",
         "color": "رنگ : سفید",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/530.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/530.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/530.webp",
             "../public/assest/buyShop/womenShoes/sport/5301.webp",
@@ -146,7 +146,7 @@
         "subtitle": "رنگ سفید-سبز سایز 36 تا 41",
         "color": "رنگ : سفید - سبز",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/court.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/court.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/court.webp",
             "../public/assest/buyShop/womenShoes/sport/court1.webp",
@@ -170,7 +170,7 @@
         "subtitle": "رنگ مشکی - آبی سایز 36 تا 40",
         "color": "رنگ : مشکی - آبی",
         "description": "مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/airMax.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/airMax.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/airMax.webp",
             "../public/assest/buyShop/womenShoes/sport/airMax2.webp",
@@ -190,7 +190,7 @@
         "subtitle": "رنگ کرم - آبی روشن سایز 36 تا 40",
         "color": "رنگ : کرم - آبی روشن",
         "description": " طرح موج مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/airHordanLow1.webp",
+        "mainImage": "/assest/shopPage/womenShop/sport/airHordanLow1.webp",
         "images": [
             "../public/assest/shopPage/womenShop/sport/airHordanLow1.webp",
             "../public/assest/buyShop/womenShoes/sport/airHordanLow12.webp",
@@ -211,7 +211,7 @@
         "subtitle": "رنگ مشکی سایز 36 تا 40",
         "color": "رنگ : مشکی",
         "description": " طرح موج مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/reaxTR.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/sport/reaxTR.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/reaxTR.jpeg",
             "../public/assest/buyShop/womenShoes/sport/reaxTR1.jpeg",
@@ -233,7 +233,7 @@
         "subtitle": "رنگ مشکی - سفید سایز 36 تا 40",
         "color": "رنگ : مشکی - سفید",
         "description": " طرح موج مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/freeMetcon.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/sport/freeMetcon.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/freeMetcon.jpeg",
             "../public/assest/buyShop/womenShoes/sport/freeMetcon1.jpeg",
@@ -255,7 +255,7 @@
         "subtitle": "رنگ سفید سایز 36 تا 40",
         "color": "رنگ : سفید",
         "description": " طرح موج مناسب برای استفاده روزمره و دویدن کفش ",
-        "mainImage": "../public/assest/shopPage/womenShop/sport/airForce.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/sport/airForce.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/sport/airForce.jpeg",
             "../public/assest/buyShop/womenShoes/sport/airForce1.jpeg",

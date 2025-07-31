@@ -6,7 +6,7 @@
         "subtitle": "رنگ بژ در سابز های 36 تا 42",
         "color": "رنگ : بژ",
         "description": "پاشنه کوتاه نوک تیز همراه با بند روی رویه و یک بند پشت",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/slingNew.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/slingNew.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/slingNew.jpg",
             "../public/assest/buyShop/womenShoes/formal/slingBack1.jpeg",
@@ -29,7 +29,7 @@
         "subtitle": "رنگ نقره ای سایز 36 تا 40",
         "color": "رنگ : نقره ای",
         "description": "پاشنه بلند نگین دار با بند دور ساق",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/shabNew.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/shabNew.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/shabNew.jpg",
             "../public/assest/buyShop/womenShoes/formal/shabtab1.jpg",
@@ -52,7 +52,7 @@
         "subtitle": "رنگ سفید در سابز های 36 تا 42",
         "color":"رنگ : سفید",
         "description": "پاشنه گربه ای همراه با سگک طلایی با بند دور مچ",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/heeloffer.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/heeloffer.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/heeloffer.jpg",
             "../public/assest/buyShop/womenShoes/formal/blackHeelW1.jpeg",
@@ -76,7 +76,7 @@
         "subtitle": "رنگ طلایی در سابز های 36 تا 43",
         "color":"رنگ : طلایی",
         "description": "دوخت با کیفیت و بند دورمچ سگک دار همراه با کیف ست",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/zarinGold.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/zarinGold.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/zarin.jpg",
             "../public/assest/buyShop/womenShoes/formal/zarin1.jpg",
@@ -100,7 +100,7 @@
         "subtitle": "رنگ سفید در سابز های 36 تا 43",
         "color": "رنگ : سفید",
         "description": "رویه ی توری با بند دور مچ سگک دار همراه با کیف ست",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/avidGold.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/avidGold.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/avid.jpg",
             "../public/assest/buyShop/womenShoes/formal/avid1.jpg",
@@ -124,7 +124,7 @@
         "subtitle": "رنگ مشکی سایز 36 تا 42",
         "color": "رنگ : مشکی",
         "description": "پاشنه بلند مشکی ساده سگک دار همراه با بند مچ ",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/stilletto.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/stilletto.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/stilletto.webp",
             "../public/assest/buyShop/womenShoes/formal/stilletto1.webp",
@@ -146,7 +146,7 @@
         "subtitle": "رنگ طلایی سایز 36 تا 41",
         "color": "رنگ : طلایی",
         "description": "پاشنه کوتاه با بند طلایی پشت باز",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeel.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/kittenHeel.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/kittenHeel.webp",
             "../public/assest/buyShop/womenShoes/formal/kittenHeel1.webp",
@@ -168,7 +168,7 @@
         "subtitle": "رنگ مشکی سایز 35 تا 40",
         "color": "رنگ : مشکی",
         "description": "پاشنه کوتاه مشکی همراه با طرح پروانه",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBackB.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/slingBackB.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/slingBackB.webp",
             "../public/assest/buyShop/womenShoes/formal/slingBackB1.webp",
@@ -190,7 +190,7 @@
         "subtitle": "رنگ مشکی سایز 36 تا 41",
         "color": "رنگ : مشکی",
         "description": "پاشنه کوتاه مشکی براق با بند سگک دار ",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeelB.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/kittenHeelB.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/kittenHeelB.webp",
             "../public/assest/buyShop/womenShoes/formal/kittenHeelB1.webp",
@@ -213,7 +213,7 @@
         "subtitle": "رنگ نقره ای در سابز های 36 تا 42",
         "color": "رنگ : نقره ای",
         "description": "صندل پاشنه بلند با بند شفاف و تزئینات نگینی",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/cristal.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/cristal.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/cristal.jpg",
             "../public/assest/buyShop/womenShoes/formal/cristal1.jpg",
@@ -235,7 +235,7 @@
         "subtitle": "رنگ مشکی در سابز های 36 تا 40",
         "color": "رنگ : مشکی",
         "description": "صندل پاشنه بلوکی سگک دار با بند مچ پا",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/blackHeelB.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/formal/blackHeelB.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/blackHeelB.jpeg",
             "../public/assest/buyShop/womenShoes/formal/blackHeelB1.jpeg",
@@ -257,7 +257,7 @@
         "subtitle": "رنگ طلایی در سابز های 36 تا 40",
         "color": "رنگ : طلایی",
         "description": "پاشنه کوتاه با طرح های نگین دوزی و توری در رویه",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/gippor.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/gippor.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/gippor.webp",
             "../public/assest/buyShop/womenShoes/formal/gippor1.webp",
@@ -279,7 +279,7 @@
         "subtitle": "رنگ کرم در سایز های 36 تا 41",
         "color": "رنگ : کرم",
         "description": "صندل پاشنه بلوکی سگک دار با بند مچ پا",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/blackHeelK.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/formal/blackHeelK.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/blackHeelK.jpeg",
             "../public/assest/buyShop/womenShoes/formal/blackHeelK1.jpeg",
@@ -301,7 +301,7 @@
         "subtitle": "رنگ مشکی در سابز های 36 تا 40",
         "color": "رنگ : مشکی",
         "description": "پاشنه کوتاه مشکی  ساده مجلسی و اداری",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/kittenHeel.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/formal/kittenHeel.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/kittenHeel.jpeg",
             "../public/assest/buyShop/womenShoes/formal/kittenHeel1.jpeg",
@@ -323,7 +323,7 @@
         "subtitle": "رنگ مشکی در سابز های 36 تا 40",
         "color": "رنگ : مشکی",
         "description": "پاشنه بلوکی بند دار ساده مجلسی و اداری",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/maryJane.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/formal/maryJane.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/maryJane.jpeg",
             "../public/assest/buyShop/womenShoes/formal/maryJane1.jpeg",
@@ -346,7 +346,7 @@
         "subtitle": "رنگ سفید در سابز های 36 تا 40",
         "color": "رنگ : سفید",
         "description": "پاشنه بلند همراه با تزئینات مروارید روی رویه توری",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBack.jpg",
+        "mainImage": "/assest/shopPage/womenShop/formal/slingBack.jpg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/slingBack.jpg",
             "../public/assest/buyShop/womenShoes/formal/slingBack1.jpg",
@@ -369,7 +369,7 @@
         "subtitle": "رنگ کرم در سابز های 36 تا 42",
         "color": "رنگ : کرم",
         "description": "پاشنه بلند نوک تیز همراه با بند پشت و بند مچ",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/slingBack.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/slingBack.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/slingBack.webp",
             "../public/assest/buyShop/womenShoes/formal/slingBack1.webp",
@@ -391,7 +391,7 @@
         "subtitle": "رنگ قهوه ای در سابز های 36 تا 40",
         "color": "رنگ : قهوه ای",
         "description": "پاشنه تخت همراه با بند روی رویه",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/flat.webp",
+        "mainImage": "/assest/shopPage/womenShop/formal/flat.webp",
         "images": [
             "../public/assest/shopPage/womenShop/formal/flat.webp",
             "../public/assest/buyShop/womenShoes/formal/flat1.webp",
@@ -413,7 +413,7 @@
         "subtitle": "رنگ مشکی در سابز های 36 تا 40",
         "color": "رنگ : مشکی",
         "description": "صندل روزمره با طراحی لیزر کات شده و پاشنه کوتاه بلوکی است",
-        "mainImage": "../public/assest/shopPage/womenShop/formal/laserCut.jpeg",
+        "mainImage": "/assest/shopPage/womenShop/formal/laserCut.jpeg",
         "images": [
             "../public/assest/shopPage/womenShop/formal/laserCut.jpeg",
             "../public/assest/buyShop/womenShoes/formal/laserCut1.jpeg",
