@@ -28,7 +28,7 @@ const NewMaps = () => {
 const productsData = [
     {
         id: 8,
-        Image: "../public/assest/new/menNew/oxfordNew.jpg",
+        Image: "/assest/new/menNew/oxfordNew.jpg",
         title: "کقش مجلسی مدل آکسفورد",
         subtitle: "رنگ مشکی سایز 37 تا 44",
         code: "کد 8746",
@@ -37,7 +37,7 @@ const productsData = [
     },
     {
         id: 15,
-        Image: "../public/assest/new/menNew/maxNew.jpg",
+        Image: "/assest/new/menNew/maxNew.jpg",
         title: "نایک مدل Air Max",
         subtitle: "رنگ طوسی سایز 38 تا 44",
         code: "کد 8445",
@@ -46,7 +46,7 @@ const productsData = [
     },
     {
         id: 41,
-        Image: "../public/assest/new/womenNew/shabNew.jpg",
+        Image: "/assest/new/womenNew/shabNew.jpg",
         title: "کفش مجلسی مدل شبتاب",
         subtitle: "رنگ نقره ای سایز 36 تا 40",
         code: "کد 1007",
@@ -55,7 +55,7 @@ const productsData = [
     },
     {
         id: 52,
-        Image: "../public/assest/new/womenNew/slingNew.jpg",
+        Image: "/assest/new/womenNew/slingNew.jpg",
         title: "کفش مجلسی مدل Sling Back",
         subtitle: "رنگ بژ سایز 36 تا 41",
         code: "کد 1030",
@@ -64,7 +64,7 @@ const productsData = [
     },
     {
         id: 100,
-        Image: "../public/assest/new/womenNew/zoomNew.jpg",
+        Image: "/assest/new/womenNew/zoomNew.jpg",
         title: "نایک مدل Zoom",
         subtitle: "رنگ مشکی-سفید سایز 36 تا 40",
         code: "کد 8208",
@@ -73,7 +73,7 @@ const productsData = [
     },
     {
         id: 108,
-        Image: "../public/assest/new/womenNew/airFNew.jpg",
+        Image: "/assest/new/womenNew/airFNew.jpg",
         title: "نایک مدل Air Jordon",
         subtitle: "رنگ سفید-آبی روشن سایز 36 تا 40",
         code: "کد 8226",

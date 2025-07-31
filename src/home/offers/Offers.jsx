@@ -26,8 +26,8 @@ const OffersMap = () => {
 const offersData = [
     {
         id: 16,
-        defaultImage: '../public/assest/offers/menOffer/airFOffer.jpg',
-        hoverImage: '../public/assest/offers/menOffer/AirForce2.jpeg',
+        defaultImage: '/assest/offers/menOffer/airFOffer.jpg',
+        hoverImage: '/assest/offers/menOffer/AirForce2.jpeg',
         title: 'نایک مدل AirForceOne',
         description: 'رنگ سفید سایز 39 تا 43',
         code: "کد 8445",
@@ -37,8 +37,8 @@ const offersData = [
     },
     {
         id: 20,
-        defaultImage: '../public/assest/offers/menOffer/monoliteOffer.jpg',
-        hoverImage: '../public/assest/offers/menOffer/monolite2.jpg',
+        defaultImage: '/assest/offers/menOffer/monoliteOffer.jpg',
+        hoverImage: '/assest/offers/menOffer/monolite2.jpg',
         title: 'کفش اسپرت Monolite',
         description: 'رنگ مشکی سایز 39 تا 44',
         code: "کد 8459",
@@ -48,8 +48,8 @@ const offersData = [
     },
     {
         id: 45,
-        defaultImage: '../public/assest/offers/womenOffer/heeloffer.jpg',
-        hoverImage: '../public/assest/offers/womenOffer/blackHeelW3.jpeg',
+        defaultImage: '/assest/offers/womenOffer/heeloffer.jpg',
+        hoverImage: '/assest/offers/womenOffer/blackHeelW3.jpeg',
         title: 'صندل مجلسی مدل نورآلینا',
         description: 'رنگ سفید سایز 36 تا 41',
         code: "کد 1017",
@@ -59,8 +59,8 @@ const offersData = [
     },
     {
         id: 105,
-        defaultImage: '../public/assest/offers/womenOffer/casualOffer.jpg',
-        hoverImage: '../public/assest/offers/womenOffer/casual3.webp',
+        defaultImage: '/assest/offers/womenOffer/casualOffer.jpg',
+        hoverImage: '/assest/offers/womenOffer/casual3.webp',
         title: 'کفش اسپرت مدل Casual',
         description: 'رنگ مشکی سایز 36 تا 41',
         code: "کد 8223",

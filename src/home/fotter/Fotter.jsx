@@ -5,7 +5,7 @@ import { FaMapMarkedAlt, FaPhoneAlt, FaInstagram, FaEnvelope } from "react-icons
 const Footer = () => {
     return(
         <footer className={styled.footer}>
-            <img src="../../../public/assest/logo/logo.png" alt="لوگو پایافیت" className={styled.logo} />
+            <img src="/assest/logo/logo.png" alt="لوگو پایافیت" className={styled.logo} />
             <div id="contact" className={styled.footerContent}>
                 <div className={styled.contactInfo}>
                     <p className={styled.footerText}>

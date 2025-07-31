@@ -25,7 +25,7 @@ const GoldMap = () => {
 const goldItemData = [
     {
         id: 200,
-        image: "../public/assest/goldShop/menGold/adrinGold.jpg",
+        image: "/assest/goldShop/menGold/adrinGold.jpg",
         text: "ست کیف و کفش مجلسی مدل Adrin",
         code: "کد 5002",
         price: "4/200/000",
@@ -33,7 +33,7 @@ const goldItemData = [
     },
     {
         id: 201,
-        image: "../public/assest/goldShop/menGold/rohomGold.jpg",
+        image: "/assest/goldShop/menGold/rohomGold.jpg",
         text: "ست کیف و کفش مجلسی مدل Rohom",
         code: "کد 5008",
         price: "4/000/000",
@@ -41,7 +41,7 @@ const goldItemData = [
     },
     {
         id: 300,
-        image: "../public/assest/goldShop/womenGold/zarinGold.jpg",
+        image: "/assest/goldShop/womenGold/zarinGold.jpg",
         text: "ست کیف و کفش مجلسی مدل Zarin",
         code: "کد 5100",
         price: "4/000/000",
@@ -49,7 +49,7 @@ const goldItemData = [
     },
     {
         id: 301,
-        image: "../public/assest/goldShop/womenGold/avidGold.jpg",
+        image: "/assest/goldShop/womenGold/avidGold.jpg",
         text: "ست کیف و کفش مجلسی مدل Avid",
         code: "کد 5107",
         price: "4/200/000",
