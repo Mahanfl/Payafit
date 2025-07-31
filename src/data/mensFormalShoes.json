@@ -5,7 +5,7 @@
         "title": "کفش مجلسی مدل آکسفورد",
         "subtitle": "رنگ مشکی سایزهای 37 تا 44",
         "description": "مشکی با خط سبز در زیر دوخت با کیفیت همراه با چرم طبیعی",
-        "mainImage": "../public/assest/shopPage/menShop/formal/oxfordNew.jpg",
+        "mainImage": "/assest/shopPage/menShop/formal/oxfordNew.jpg",
         "images": [
             "../public/assest/shopPage/menShop/formal/oxfordNew.jpg",
             "../public/assest/buyShop/menShoes/formal/oxfordN1.jpg",
