@@ -193,9 +193,25 @@
         padding: 0.8rem;
         margin: 0 0.5rem;
         flex: 0 0 calc(100% - 1rem);
-        min-width: 7rem;
-        
+        min-width: 6rem;
+
     }
+
+.productItem h3{
+    font-size: 1rem;
+   
+}
+
+.productItem p{
+    font-size: 0.8rem;
+   
+}
+
+.productItem .price{
+    font-size: 1rem;
+}
+
+
     .sliderButton{
         width: 1.4rem;
         height: 1.4rem;
