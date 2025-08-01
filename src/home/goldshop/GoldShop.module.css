@@ -115,3 +115,15 @@
     background-color: blue;
     color: white;
 }
+
+
+
+@media (max-width: 480px) {
+    .sectionTitle{
+        font-size: 1.5rem;
+    }
+
+    .goldshopText{
+        font-size: 1rem;
+    }
+}
