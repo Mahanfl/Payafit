@@ -4,6 +4,7 @@
         "new": "NEW",
         "title": "کفش مجلسی مدل آکسفورد",
         "subtitle": "رنگ مشکی سایزهای 37 تا 44",
+        "color": "رنگ : مشکی",
         "description": "مشکی با خط سبز در زیر دوخت با کیفیت همراه با چرم طبیعی",
         "mainImage": "/assest/shopPage/menShop/formal/oxfordNew.jpg",
         "images": [
@@ -26,6 +27,7 @@
         "gold": "Buying Gold",
         "title": "کفش مجلسی مدل آدرین",
         "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "color": "رنگ : مشکی",
         "description": "چرم طبیعی و دوخت با کیفیت همراه با کیف ست رسمی چرم ",
         "mainImage": "/assest/shopPage/menShop/formal/adrinGold.jpg",
         "images": [
@@ -50,6 +52,7 @@
         "gold": "Buying Gold",
         "title": "کفش مجلسی مدل روهام",
         "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "color":"رنگ : مشکی",
         "description": "چرم طبیعی درجه یک و دوخت با کیفیت همراه با کیف زسمی چرم ",
         "mainImage": "/assest/shopPage/menShop/formal/rohomGold.jpg",
         "images": [
@@ -74,6 +77,7 @@
         "id": "1",
         "title": "کفش مجلسی مدل سهند",
         "subtitle": "رنگ مشکی سایز 38 تا 43",
+        "color":"رنگ : مشکی",
         "description": "سهند رنگ مشکی دوخت با تزئینات و چرم طبیعی",
         "mainImage": "/assest/shopPage/menShop/formal/sahand.jpg",
         "images": [
@@ -96,6 +100,7 @@
         "id": "2",
         "title": "کفش مجلسی مدل کالج",
         "subtitle": "رنگ مشکی سایز 38 تا 43",
+        "color":"رنگ : مشکی",
         "description": "کالج ساده مشکی دوخت با کیفیت و چرم طبیعی",
         "mainImage": "/assest/shopPage/menShop/formal/collage.jpg",
         "images": [
@@ -118,6 +123,7 @@
         "id": "3",
         "title": "کفش مجلسی مدل آکسفورد",
         "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "color":"رنگ : مشکی",
         "description": "آکسفورد ساده مشکی با چرم طبیعی دوخت با کیفیت",
         "mainImage": "/assest/shopPage/menShop/formal/oxford.jpg",
         "images": [
@@ -140,6 +146,7 @@
         "id": "4",
         "title": "کفش مجلسی مدل آکسفورد",
         "subtitle": "رنگ مشکی سایز 38 تا 44",
+        "color":"رنگ : مشکی",
         "description": "آکسفورد مشکی با دوخت و طرح ویژه",
         "mainImage": "/assest/shopPage/menShop/formal/oxfordTZ.jpg",
         "images": [
@@ -162,6 +169,7 @@
         "id": "5",
         "title": "کفش مجلسی مدل نیما",
         "subtitle": "رنگ مشکی سایز 39 تا 43",
+        "color":"رنگ : مشکی",
         "description": "کالج مشکی با دوخت دولایه و چرم طبیعی مدل نیما",
         "mainImage": "/assest/shopPage/menShop/formal/nima.jpg",
         "images": [
@@ -184,6 +192,7 @@
         "id": "6",
         "title": "کفش مجلسی مدل آکسفورد",
         "subtitle": "رنگ مشکی قهوه ای سایز های 38 تا 43",
+        "color":"رنگ : مشکی - قهوه ای",
         "description": "آکسفورد مشکی زیره و پاشنه قهوه ای همراه با دوخت با کیفیت",
         "mainImage": "/assest/shopPage/menShop/formal/oxfordC.jpg",
         "images": [
@@ -205,6 +214,7 @@
         "id": "7",
         "title": "کفش مجلسی مدل کالج",
         "subtitle": "رنگ مشکی سایزهای 38 تا 43",
+        "color":"رنگ : مشکی",
         "description": "کالج سگک دار با دوخت با کیفیت و چرم طبیعی",
         "mainImage": "/assest/shopPage/menShop/formal/collageS.jpg",
         "images": [
@@ -227,6 +237,7 @@
         "id": "9",
         "title": "کفش مجلسی مدل سامی بلورگ",
         "subtitle": "رنگ مشکی سایز 39 تا 44",
+        "color":"رنگ : مشکی",
         "description": "سامی بلورگ با دوخت عالی و چرم طبیعی ",
         "mainImage": "/assest/shopPage/menShop/formal/samiBlurg.jpg",
         "images": [

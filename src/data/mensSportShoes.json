@@ -4,6 +4,7 @@
         "new": "Yes",
         "title": "نایک مدل AirMax",
         "subtitle": "رنگ طوسی-مشکی ای سابز 38 تا 44",
+        "color": "رنگ : طوسی - مشکی",
         "description": "رنگ طوسی با زیره مشکی با کیفیت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/maxNew.jpg",
         "images": [
@@ -27,6 +28,7 @@
         "offer": "Yes",
         "title": "نایک مدل AirForceOne",
         "subtitle": "رنگ سفید سایز 42 تا 44",
+        "color":"رنگ : سفید",
         "description": "رنگ سفید ساده با کیفیت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/airFOffer.jpg",
         "images": [
@@ -51,6 +53,7 @@
         "offer": "Yes",
         "title": "کفش اسپرت مدل Monolite",
         "subtitle": "رنگ طوسی مشکی سایز 39 تا 43",
+        "color":"رنگ : طوسی - مشکی",
         "description": "مقاوم سبک و راحت مناسب  با کیفیت دوخت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/monoliteOffer.jpg",
         "images": [
@@ -75,8 +78,9 @@
     {
         "id": "12",
         "title": "نیوبالانس مدل 630",
-        "subtitle": "رنگ مشکی سایزهای 38 تا 44",
-        "description": "کپی نیوبالانس 630 سفید با کیفیت بالا",
+        "subtitle": "رنگ سفید سایزهای 39 تا 43",
+        "color":"رنگ : سفید",
+        "description": " نیوبالانس 630 سفید با کیفیت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/new630.jpg",
         "images": [
             "../public/assest/shopPage/menShop/sport/new630.jpg",
@@ -97,6 +101,7 @@
         "id": "13",
         "title": "نیوبالانس مدل 830",
         "subtitle": "رنگ مشکی سایزهای 38 تا 44",
+        "color":"رنگ : مشکی",
         "description": "نیوبالانس 830 رنگ مشکی سبک و راحت",
         "mainImage": "/assest/shopPage/menShop/sport/new830.jpg",
         "images": [
@@ -118,6 +123,7 @@
         "id": "14",
         "title": "نایک مدل AirMax",
         "subtitle": "رنگ مشکی سایزهای 38 تا 43",
+        "color": "رنگ : مشکی",
         "description": "رنگ مشکی زیره و کفی سفید با کیفیت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/Air.jpg",
         "images": [
@@ -140,6 +146,7 @@
         "id": "17",
         "title": "نایک مدل AirForceOne",
         "subtitle": "رنگ طوسی-مشکی ای سابز 39 تا 44",
+        "color": "رنگ : طوسی - مشکی",
         "description": "رنگ طوسی کفی مشکی با کیفیت بالا",
         "mainImage": "/assest/shopPage/menShop/sport/AirForce1T.jpg",
         "images": [
@@ -161,6 +168,7 @@
         "id": "18",
         "title": "نایک مدل Classic",
         "subtitle": "رنگ سفید مشکی سایز 38 تا 43",
+        "color":"رنگ : سفید - مشکی",
         "description": "کلاسیک سفید مشکی با لوگو خاص",
         "mainImage": "/assest/shopPage/menShop/sport/classic.jpg",
         "images": [
@@ -182,6 +190,7 @@
         "id": "19",
         "title": "نایک مدل Jordan",
         "subtitle": "رنگ سفید مشکی سایز 38 تا 43",
+        "color":"رنگ : سفید - مشکی",
         "description": "سفید مشکی طرح دار در پشت",
         "mainImage": "/assest/shopPage/menShop/sport/Jordan.jpg",
         "images": [

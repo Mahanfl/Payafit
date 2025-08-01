@@ -29,7 +29,7 @@ const productsData = [
     {
         id: 8,
         Image: "/assest/new/menNew/oxfordNew.jpg",
-        title: "کقش مجلسی مدل آکسفورد",
+        title: "کفش مجلسی مدل آکسفورد",
         subtitle: "رنگ مشکی سایز 37 تا 44",
         code: "کد 8746",
         price: "4/000/000",
@@ -158,7 +158,7 @@ const New = ({product}) => {
                             <p>{product.subtitle}</p>
                             <p>{product.code}</p>
                             <p className={styled.price}>{product.price}</p>
-                            <Link to={`/product/${product.id}`}>مشاهده</Link>
+                            <Link to={`/product/${product.id}`}>مشاهده جزئیات</Link>
                         </div>
                     ))}
                 </div>
