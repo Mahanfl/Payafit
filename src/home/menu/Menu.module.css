@@ -138,8 +138,8 @@
 .mobileNavLinks{
     position: fixed;
     background-color: rgba(0, 0, 0, 0.8);
-    top: 60px;
-    right: 1;
+    top: 40px;
+    
     width: auto;
     overflow-y: auto;
     transform: translateX(100%);
@@ -192,7 +192,7 @@
     .iconsSection{
         color: black;
     }
-    
+
 }
 
 @media (max-width: 480px) {
