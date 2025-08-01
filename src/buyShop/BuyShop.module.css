@@ -41,7 +41,7 @@
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    gap: 0.8rem;
+    gap: 0.1rem;
     margin-top: 0.5rem;
     padding-bottom: 0.5rem;
     width: 100%;
@@ -140,7 +140,7 @@
     .buyShopContainer{
         flex-direction: row;
         align-items: flex-start;
-        gap: 2.5rem;
+        gap: 2.8rem;
         padding: 2.5rem;
         max-width: 1200px;
     }
@@ -214,3 +214,5 @@
         font-size: 1.1rem;
     }
 }
+
+
