@@ -15,7 +15,7 @@ export const ShopProvider = ({ children }) => {
         });
     };
 
-    const removeFroWishList = (productId) => {
+    const RemoveFroWishList = (productId) => {
         setWishList((prevWishList) => 
             prevWishList.filter((product) => product.id !== productId)
         )
@@ -34,7 +34,7 @@ export const ShopProvider = ({ children }) => {
         });
     };
 
-    const removeFromCart = (productId) => {
+    const RemoveFromCart = (productId) => {
         setCart((prevCart) =>
             prevCart.filter((product) => product.id !== productId)
       );
@@ -59,10 +59,10 @@ export const ShopProvider = ({ children }) => {
             value={{
                 wishList,
                 addToWishList,
-                removeFroWishList,
+                RemoveFroWishList,
                 cart,
                 addToCart,
-                removeFromCart,
+                RemoveFromCart,
                 decreaseQuantity,
                 increaseQuantity
             }}

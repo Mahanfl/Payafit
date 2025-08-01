@@ -4,7 +4,7 @@ import styled from "./WishListPage.module.css";
 
 
 function WishListPage () {
-    const { wishList, removeFromWishList} = useShop();
+    const { wishList, RemoveFromWishList} = useShop();
 
     return(
         <div className={styled.wishListContainer}>
@@ -25,7 +25,7 @@ function WishListPage () {
                                 <p className={styled.productPrice}>{product.price}</p>
                             </div>
                             <button
-                               onClick={() => removeFromWishList(product.id)}
+                               onClick={() => RemoveFromWishList(product.id)}
                                className={styled.removeButton}
                             >
                               حذف  
