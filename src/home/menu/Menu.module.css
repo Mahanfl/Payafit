@@ -95,6 +95,14 @@
   
 }
 
+.iconS{
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.3;
+}
+
 .icon:hover{
     transform: scale(1.07);
     color: rgba(0, 0, 256, 0.8);

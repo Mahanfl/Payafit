@@ -66,7 +66,7 @@ const Menu = () => {
                 </ul>
 
                 <div className={styled.iconsSection}>
-                    <Link to="#" className={styled.icon}><FaSearch /></Link> 
+                    <Link to="#" className={styled.iconS}><FaSearch /></Link> 
                     <Link to="/wishList" className={styled.icon}>
                         <FaHeart />
                         {wishList.length > 0 && <span>{wishList.length}</span>}
@@ -88,7 +88,7 @@ const Menu = () => {
                         <span className={styled.siteName}><Link to="/">پایافیت</Link></span>
                     </div>
                     <div className={styled.iconsSection}>
-                        <a href="#" className={styled.icon}><FaSearch /></a>  
+                        <a href="#" className={styled.iconS}><FaSearch /></a>  
                         <Link to="/wishList" className={styled.icon}>
                            <FaHeart />
                            {wishList.length > 0 && <span>{wishList.length}</span>}

@@ -20,9 +20,10 @@ const ShopPage = () => {
     const [products, setProducts] = useState([]);
     const [searchParams] = useSearchParams();
 
+
     const category = searchParams.get('category');
     const type = searchParams.get('type');
-
+    
     const currentCategoryKey = `${category || 'men'}-${type || 'formal'}`;
 
     useEffect(() => {
@@ -42,6 +43,9 @@ const ShopPage = () => {
             return 'اسپرت های زنانه'
         }
     }
+
+ 
+  
 
 
     return(
